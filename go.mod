@@ -1,4 +1,4 @@
-module github.com/launchdarkly/go-server-sdk-evaluation-fdnaap/v4-fdnaap
+module github.com/launchdarkly/go-server-sdk-evaluation-fdnaap/v4
 
 go 1.18
 
